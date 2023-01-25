@@ -1,6 +1,8 @@
-<h1 dir="auto"><a id="user-content-hi-im-tinashe-software-engineer-mid-senior" class="anchor" aria-hidden="true" href="#hi-im-tinashe-software-engineer-mid-senior"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Tinashe! <br><a href="https://github.com/Chavh">Software Engineer (Mid-Senior)</a></h1>
+<h1>Tinashe, Software Engineer (Mid-Senior) </h1>
+<p>With 4+ years of experience in software engineering, I have a proven track record of building robust, scalable, and maintainable systems. My expertise lies in building front-end systems using Vue.js and JavaScript, back-end systems using Go and Python, and working with PostgreSQL, AWS, GCP, Kubernetes, NATS, and Kafka. I am well-versed in building event-driven architectures and microservices using NATS and Kafka. I have experience working with machine learning models and deploying them for inference. I am experienced in CI/CD pipelines and have experience building and deploying applications in a production environment.</p>
 
 ### 🔭 Software Development Projects:
+Having worked mainly on private projects, have created the below demo projects to highlight parts of my knowledge. Will continually add to them and update them when I have time.
 - [Games Library](https://github.com/Chavh/games-library) (Vue, Python, Flask & Postgres)
 - [The Online Market](https://github.com/Chavh/The-Online-Marketplace) (Vue, Node, Express, JS & Postgres)
 - [Security service](https://github.com/Chavh/security-service) (Golang & Postgres)
