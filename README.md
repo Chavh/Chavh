@@ -1,4 +1,4 @@
-<h1>Tinashe, Software Engineer (Mid-Senior) </h1>
+<h1>Tinashe, Software Engineer</h1>
 <p>With 6+ years of experience in software engineering, I have a proven track record of building robust, scalable, and maintainable systems. My expertise lies in building front-end systems using Vue.js and JavaScript, back-end systems using Go and Python, and working with PostgreSQL, AWS, GCP, Kubernetes, NATS, and Kafka. I am well-versed in building event-driven architectures and microservices using NATS and Kafka. I have experience working with machine learning models and deploying them for inference. I am experienced in CI/CD pipelines and have experience building and deploying applications in a production environment.</p>
 
 ### 🔭 Software Development Projects:
